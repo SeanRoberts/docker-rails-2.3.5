@@ -1,6 +1,6 @@
 # Docker Rails 2.3.5
 
-Use this to develop legacy Rails 2.3 and Ruby 1.8.7 apps.
+Use this to develop legacy Rails 2.3 and Ruby 1.8.7 apps without having to build a legacy environment on your computer. Also use this to start an upgrade path to a more recent version of Ruby and Rails.
 
 ## A warning
 
